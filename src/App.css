@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;1,300&display=swap');
+
+.login-btn {
+  background: #0f55bb;
+}
+.form-control {
+  border-color: #5e5e5e;
+}
+.login-form {
+  margin-top: 5em;
+}
+.form-contro:focus {
+  box-shadow: none;
+  border: none;
+}
